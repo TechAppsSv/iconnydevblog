@@ -1,2 +1,7 @@
-# iconnydevblog
-Blog for devs of iconny
+# IconnyDevBlog
+Blog, status, and information of dev of Iconny
+
+[STATUS]()
+
+[Dev Blogs]()
+
